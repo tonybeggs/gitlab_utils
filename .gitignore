@@ -1,0 +1,28 @@
+token.txt
+
+.idea
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+
+# pyenv
+.python-version
+
+# OSX
+.DS_Store
